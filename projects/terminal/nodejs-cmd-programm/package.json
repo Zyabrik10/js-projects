@@ -1,0 +1,23 @@
+{
+  "name": "goit-nodejs-hm-01",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "argv": "^0.0.3",
+    "colors": "^1.4.0",
+    "commander": "^11.0.0",
+    "nanoid": "^4.0.2"
+  }
+}
