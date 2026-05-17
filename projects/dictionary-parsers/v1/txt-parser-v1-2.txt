@@ -1,0 +1,18 @@
+1 wywierać - докладати
+2 przekazywanie - передача
+3 wewnętrzny - внутрішній
+4 zewnętrzny - зовнішній
+5 układ - система
+6 zdolność - здатність
+7 uzyskiwać - отримувати / досягати
+8 pozaukładowa - позасистемний
+9 zapomnieć - забути
+10 określenie - визначення
+355 Kelner - офіціант
+356 Asystent - асистент
+357 wracać - повертатися
+358 Zmywacz naczyń - посудомийник
+359 Cukiernik - ksapkpa
+360 Dostawca - odshjfodsj
+361 Pracownik magazynu - працівник складу
+362 zatrudnić - наймати на роботу
